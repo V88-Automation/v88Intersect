@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "v88Intersect",
+    "description": "Returns true if any element in Required matches an element in Available or if Required is empty",
+    "author": "V88",
+    "params": [
+      {
+		 	  "name": "required",
+		 	  "displayName": "Required",
+		    "type": "string"
+		  },
+		  {
+		    "name": "available",
+		    "displayName": "Available",
+		    "type": "string"
+		  }
+    ],
+     "result": {
+      "type": "boolean"
+    }
+  }
+]
